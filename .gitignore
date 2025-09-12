@@ -1,0 +1,10 @@
+# VS Code config
+.vscode
+
+# Competitive Programming Helper Extension (.cph) file
+*.cph
+
+# Code Testing
+*test.py
+*test.cpp
+*.exe
